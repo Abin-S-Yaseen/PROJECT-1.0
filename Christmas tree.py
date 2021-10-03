@@ -1,3 +1,4 @@
+# Christmas tree
 import time
 
 space = " "
