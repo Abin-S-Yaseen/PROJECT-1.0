@@ -3,11 +3,9 @@
 Made for combining your python projects.
 
 ## Contributors:
-georgemaret ,
+georgemaret,
 JVK,
- Shalu, 
-Godizon
-Abin s yaseen also included 
-
-Hehehe
+Shalu, 
+Godizon,
+Abin s yaseen
 
